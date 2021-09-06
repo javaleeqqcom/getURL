@@ -1,0 +1,107 @@
+
+// API CALLBACK
+(new PopularQueryRenderer(document.getElementById("queries"))).render({
+"title" : "sj.uukanshu",
+"popularQueries" : [
+{
+"query" : "海贼",
+"num" : 13910,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E6%B5%B7%E8%B4%BC"
+},
+{
+"query" : "斗罗",
+"num" : 10173,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E6%96%97%E7%BD%97"
+},
+{
+"query" : "漫威",
+"num" : 8589,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E6%BC%AB%E5%A8%81"
+},
+{
+"query" : "火影",
+"num" : 7649,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E7%81%AB%E5%BD%B1"
+},
+{
+"query" : "哈利波特",
+"num" : 6199,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9"
+},
+{
+"query" : "美漫",
+"num" : 4690,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E7%BE%8E%E6%BC%AB"
+},
+{
+"query" : "木葉",
+"num" : 4328,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E6%9C%A8%E8%91%89"
+},
+{
+"query" : "霍格沃茨",
+"num" : 3952,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E9%9C%8D%E6%A0%BC%E6%B2%83%E8%8C%A8"
+},
+{
+"query" : "夜的命名術",
+"num" : 3442,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E5%A4%9C%E7%9A%84%E5%91%BD%E5%90%8D%E8%A1%93"
+},
+{
+"query" : "海賊",
+"num" : 3223,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E6%B5%B7%E8%B3%8A"
+},
+{
+"query" : "斗罗大陆",
+"num" : 3166,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86"
+},
+{
+"query" : "精灵",
+"num" : 2882,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E7%B2%BE%E7%81%B5"
+},
+{
+"query" : "重生",
+"num" : 2551,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E9%87%8D%E7%94%9F"
+},
+{
+"query" : "系統",
+"num" : 2448,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E7%B3%BB%E7%B5%B1"
+},
+{
+"query" : "精靈",
+"num" : 2440,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E7%B2%BE%E9%9D%88"
+},
+{
+"query" : "末世",
+"num" : 2228,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E6%9C%AB%E4%B8%96"
+},
+{
+"query" : "超神寵獸店",
+"num" : 1819,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E8%B6%85%E7%A5%9E%E5%AF%B5%E7%8D%B8%E5%BA%97"
+},
+{
+"query" : "二次元",
+"num" : 1609,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E4%BA%8C%E6%AC%A1%E5%85%83"
+},
+{
+"query" : "三國之漢室再興",
+"num" : 1222,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E4%B8%89%E5%9C%8B%E4%B9%8B%E6%BC%A2%E5%AE%A4%E5%86%8D%E8%88%88"
+},
+{
+"query" : "系统",
+"num" : 1047,
+"href" : "https:\x2F\x2Fwww.google.com\x2Fcse?cx=008945028460834109019%3Akn_kwux2xms\x26q=%E7%B3%BB%E7%BB%9F"
+}
+]
+})
