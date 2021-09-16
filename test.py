@@ -2,7 +2,7 @@ import re,os
 from typing import List,Tuple
 class 中文小说处理类:
     from typing import List
-    整数="[一二三四五六七八九十零百千万亿〇]"
+    整数="[一二两三四五六七八九十零百千万亿〇]"
     非句号 = "[\u4E00-\u9FFF，；：0-9]"
     句号 = "[\u4E00-\u9FFF，；：。！？0-9]"
     含半角 = "[\u4E00-\u9FFF，；;：:！!？?0-9\(\)（）、“”]"
